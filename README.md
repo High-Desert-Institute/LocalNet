@@ -15,6 +15,7 @@ Additionally, Meshtastic-LLM allows these services to integrate with long-range,
 LocalNet serves as an applicaiton server on the local intranet at each outpost, hosting rich services on low-power hardware (e.g., Raspberry Pi, mini PCs, Steam Machines):
 *   **The Library**: Hosting a vast, offline-first repository of survival, technical, and cultural knowledge.
 *   **The Librarian**: A local, privacy-focused LLM (Large Language Model) that acts as an intelligent interface to The Library, answering complex questions without internet access.
+*   **Pubsub**: A lightweight publish-subscribe messaging system to facilitate communication between local applications and services and maintain updated records and library content.
 *   **Collaboration Tools**: Local instances of GitLab, Nextcloud, and other collaboration platforms to facilitate teamwork and resource sharing within the community.
 *   **Knoledge Management Systems**: GitLab/Pages for documentation, wikis, and project management.
 *   **Open WebUI**: An open source chat interface for interacting with all the bleeding edge LLMs.

@@ -24,12 +24,17 @@ LocalNet serves as an applicaiton server on the local intranet at each outpost, 
 *   **Code Generation**: Local AI-powered code generation tools to assist with software development and automation.
 *   **Music Generation**: Local AI-powered music generation tools for creative expression and ambiance.
 *   **Offline-First Design**: All services are designed to function fully offline, ensuring reliability in remote locations.
+*   **Internet-In-A-Box**:
+    - Complete local copy of Wikipedia
+    - OpenStreetMaps
+    - Local copies of other educational and reference materials
 
 ### 2. Mesh Integration (The Cyberpony Express)
 LocalNet integrates directly with **The Cyberpony Express**, HDI's public Meshtastic-based mesh network.
 *   Acts as a bridge between the local high-bandwidth intranet and the low-bandwidth, long-range LoRa mesh.
 *   Facilitates secure communication between disparate outposts (e.g., High Ground, Mammoth, Slab City).
 *   Hosts the **BBS**, allowing for asynchronous messaging, bulletin boards, and lightweight applications over the mesh.
+*   Reords data from regional sensors for things like weather forecasting, environmental monitoring, and resource management. 
 
 ### 3. Community Autonomy
 *   **Hands-Off Operation**: Designed for stability in remote locations with minimal maintenance.

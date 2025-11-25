@@ -16,6 +16,7 @@ LocalNet serves as an applicaiton server on the local intranet at each outpost, 
 *   **The Library**: Hosting a vast, offline-first repository of survival, technical, and cultural knowledge.
 *   **The Librarian**: A local, privacy-focused LLM (Large Language Model) that acts as an intelligent interface to The Library, answering complex questions without internet access.
 *   **Pubsub**: A lightweight publish-subscribe messaging system to facilitate communication between local applications and services and maintain updated records and library content.
+*   **Kasm Workspaces**: Containerized applications accessible via web browser, providing a variety of tools and environments for users.
 *   **Collaboration Tools**: Local instances of GitLab, Nextcloud, and other collaboration platforms to facilitate teamwork and resource sharing within the community.
 *   **Knoledge Management Systems**: GitLab/Pages for documentation, wikis, and project management.
 *   **Open WebUI**: An open source chat interface for interacting with all the bleeding edge LLMs.

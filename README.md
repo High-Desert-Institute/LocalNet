@@ -4,7 +4,6 @@ title: "LocalNet"
 slug: localnet
 guilds:
     - lorekeepers
-status: active
 repo: "https://github.com/High-Desert-Institute/LocalNet"
 summary: >-
     A resilient off-grid application stack that gives every outpost a local digital hub

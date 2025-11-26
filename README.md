@@ -1,3 +1,16 @@
+---
+layout: project
+title: "LocalNet"
+slug: localnet
+guilds:
+    - lorekeepers
+status: active
+repo: "https://github.com/High-Desert-Institute/LocalNet"
+summary: >-
+    A resilient off-grid application stack that gives every outpost a local digital hub
+    for knowledge, AI, and mesh-integrated services.
+---
+
 # LocalNet
 
 **LocalNet** is the resilient, off-grid server stack for the [High Desert Institute](https://highdesertinstitute.org) outposts. It is designed to be a "set-it-and-forget-it" digital hub that empowers regional communities to run their own local tools while integrating seamlessly with the wider mesh network.
